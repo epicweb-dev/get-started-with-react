@@ -1,0 +1,7 @@
+node_modules
+**/build/**
+**/public/build/**
+**/public/babel-standalone.js
+.env
+**/package-lock.json
+**/playwright-report/**
