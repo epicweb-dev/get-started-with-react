@@ -1,10 +1,10 @@
 <div>
   <h1 align="center"><a href="https://www.epicweb.dev/workshops">Get Started with React 🏃‍➡️</a></h1>
   <strong>
-    Learn the foundational concepts necessary for building React applications and libraries
+    Learn the foundational concepts upon which all the rest of your React knowledge is built
   </strong>
   <p>
-    Learn everything you need to be effective with the fundamental building blocks of React applications. When you're finished, you'll be prepared to create React components to build excellent experiences for your app's users.
+    Learn how to create React elements, render them to the page, and reuse them with custom components. This workshop will give you the foundational knowledge you need upon which you can build your React skills.
   </p>
 </div>
 
