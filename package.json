@@ -5,6 +5,8 @@
     "title": "Get Started with React 🏃‍➡️",
     "githubRoot": "https://github.com/epicweb-dev/get-started-with-react/blob/main",
     "subtitle": "Learn the foundational concepts necessary for building React applications and libraries",
+    "epicWorkshopHost": "www.epicreact.dev",
+    "epicWorkshopSlug": "get-started-with-react",
     "instructor": {
       "name": "Kent C. Dodds",
       "avatar": "/images/instructor.png",
