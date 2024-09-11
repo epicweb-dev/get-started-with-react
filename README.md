@@ -32,7 +32,7 @@
 
 ## Prerequisites
 
-- Basic understanding of HTML, CSS, JavaScript, and TypeScript
+- Basic understanding of HTML, CSS, and JavaScript
 - Install the [React DevTools](https://react.dev/learn/react-developer-tools)
 
 ## Pre-workshop Resources
