@@ -12,6 +12,7 @@
       "displayNameShort": "EpicReact",
       "logo": "/logo.svg"
     },
+    "onboardingVideo": "https://www.epicweb.dev/tips/get-started-with-the-epic-workshop-app-for-react",
     "instructor": {
       "name": "Kent C. Dodds",
       "avatar": "/images/instructor.png",
