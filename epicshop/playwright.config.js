@@ -10,6 +10,7 @@ const tmpDir = path.join(
 )
 
 export default defineConfig({
+	workers: process.env.CI ? 1 : undefined,
 	outputDir: path.join(tmpDir, 'playwright-test-output'),
 	reporter: [
 		[
