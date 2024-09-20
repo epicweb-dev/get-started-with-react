@@ -5,6 +5,9 @@
     "title": "Get Started with React 🏃‍➡️",
     "githubRoot": "https://github.com/epicweb-dev/get-started-with-react/blob/main",
     "subtitle": "Learn the foundational concepts necessary for building React applications and libraries",
+    "stackBlitzConfig": {
+      "view": "editor"
+    },
     "product": {
       "host": "www.epicreact.dev",
       "slug": "get-started-with-react",
