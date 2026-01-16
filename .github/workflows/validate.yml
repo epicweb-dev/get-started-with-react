@@ -32,7 +32,7 @@ jobs:
 
       - name: ⬣ ESLint
         run: npm run lint
-        working-directory: ./workshop
+        working-directory: ./workshop/${{ github.event.repository.name }}
 
       # TODO: get this working again
       # - name: ⬇️ Install Playwright
